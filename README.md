@@ -3,10 +3,10 @@
 Dashboard de vendas com filtros avançados, gráficos e paginação, desenvolvido com React, TypeScript, React Query e Zustand.
 
 ## 📸 Preview do sistema
-<img src="../fintech/src/assets/image.png" width="100%" />
-<img src="../fintech/src/assets/image-vendas.png" width="100%" />
-<img src="../fintech/src/assets/image-table.png.png"width="100%" />
 
+<img src="./src/assets/image.png" width="100%" />
+<img src="./src/assets/image-vendas.png" width="100%" />
+<img src="./src/assets/image-table.png"width="100%" />
 
 ## 🚀 Funcionalidades
 
@@ -52,8 +52,6 @@ Dashboard de vendas com filtros avançados, gráficos e paginação, desenvolvid
 
 - **App.tsx** → Componente principal da aplicação
 
-
-
 ## ⚙️ Como rodar o projeto
 
 ```bash
@@ -67,5 +65,6 @@ cd fintech
 npm install
 
 
-# Rode o projeto 
+# Rode o projeto
 npm run dev
+```
