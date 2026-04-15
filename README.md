@@ -2,6 +2,12 @@
 
 Dashboard de vendas com filtros avançados, gráficos e paginação, desenvolvido com React, TypeScript, React Query e Zustand.
 
+## 📸 Preview do sistema
+<img src="./public/image.png" width="100%" />
+<img src="./public/image-vendas.png" width="100%" />
+<img src="./public/image-table.png" width="100%" />
+
+
 ## 🚀 Funcionalidades
 
 - 📊 Visualização de dados de vendas
