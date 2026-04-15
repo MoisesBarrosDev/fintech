@@ -60,5 +60,6 @@ cd fintech
 # Instale as dependências
 npm install
 
-# Rode o projeto
+
+# Rode o projeto 
 npm run dev
