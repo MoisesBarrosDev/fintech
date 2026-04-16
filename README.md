@@ -2,6 +2,11 @@
 
 Dashboard de vendas com filtros avançados, gráficos e paginação, desenvolvido com React, TypeScript, React Query e Zustand.
 
+🚀 Deploy
+
+🔗 Acesse o projeto em produção:
+👉 https://fintech-control.vercel.app/
+
 ## 📸 Preview do sistema
 
 <img src="./src/assets/image.png" width="100%" />
